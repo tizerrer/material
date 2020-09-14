@@ -2,10 +2,10 @@
 Fall/Herbst-semester 2020
 
 ## Lectures
-Mondays 9.00-9.45 (tbd), 10.00-10.45 (tbd)
+Mondays 9.00-9.45 (remote), 10.00-10.45 (remote)
 
 ## Exercises
-Monday 11.00-11.45 (tbd)
+Monday 11.00-11.45 (remote)
 
 ## Lecturers
 
@@ -38,6 +38,6 @@ Monday 11.00-11.45 (tbd)
 
 Assuming you have git installed locally, you can check out the entire set of course materials with the following command (from command line):
 ```
-git clone https://github.com/sta426hs2019/material.git
+git clone https://github.com/sta426hs2020/material.git
 ```  
 Alternatively, for a ZIP file of the repository, you can click on the (green) 'Clone or download' (top right) and then click 'Download ZIP'.
