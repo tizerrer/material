@@ -9,4 +9,4 @@ Ribo-seq (also known as ribosome profiling) is the deep sequencing of ribosome-p
 
 ### Examples of applications 
 Ribo-seq —> Measure differential gene expression at the level of mRNA translation —> Poisson models/Fisher's exact test/ Likelihood ratio test
-Ribo-seq —> Map sites of translation initiation —>  
+Ribo-seq —> Map sites of translation initiation —>  (sequence alignment methods?)
