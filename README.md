@@ -13,6 +13,10 @@ Monday 11.00-11.45 (remote)
 
 [Prof. Dr. Mark Robinson](https://robinsonlabuzh.github.io/), Associate Professor of Statistical Genomics, [IMLS](http://www.imls.uzh.ch/index.html), UZH  
 
+## Teaching Assistant
+
+[Ahmadreza Yousefkhani](https://ir.linkedin.com/in/ahmadreza-yousefkhani-3b2a99a8), M.Sc. student in Computational Biology and Bioinformatics  
+
 
 ## Schedule
 
