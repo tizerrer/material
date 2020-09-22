@@ -26,3 +26,9 @@ A common algorithm for peak calling is __MACS2__. The distance between those two
  * bubibyte
  * Sann5
  * mjemons
+
+### Resources:
+- David S. Johnson et al., “Genome-Wide Mapping of in Vivo Protein-DNA Interactions,” Science 316, no. 5830 (June 8, 2007): 1497–1502, doi:10.1126/science.1141319.
+- Ma, Hung Wong, Chapter Three - The Analysis of ChIP-Seq Data. Methods in Enzymology, vol. 497, pp. 51-73 (2011). https://doi.org/10.1016/B978-0-12-385075-1.00003-2
+- Mistry, Khetani. Introduction to ChIP-Seq using high-performance computing. https://hbctraining.github.io/Intro-to-ChIPseq/lessons/05_peak_calling_macs.html
+- Nakato, Toyonori, Methods for ChIP-seq analysis: A practical workflow and advanced applications. Methods, 1046-2023 (2020). https://doi.org/10.1016/j.ymeth.2020.03.005
