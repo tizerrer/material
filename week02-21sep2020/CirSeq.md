@@ -28,7 +28,9 @@ Source: [1, Methods].
 
 ## Application
 
-TODO
+Determination of virus mutation rates is difficult and often unreliable because accuracy depends on observing rare events, but the accuracy improvement of CirSeq compared to conventional next-generation sequencing allows the capture of a near-complete distribution of mutant frequencies within RNA virus populations. Also, CirSeq allows for a better transition-to-transversion ratio (ts:tv). These nucleotide-specific differences in mutation rate likely reflect the molecular mechanism of viral polymerase fidelity, which can help understanding the directionality of evolution.
+
+Source: [1, Main].
 
 ## Statistics
 
@@ -44,4 +46,5 @@ Mutational and fitness landscapes of an RNA virus revealed through population se
 ## Authors of this document
 
 [numpde](https://github.com/numpde/) (RA)
+[johaab](https://github.com/johaab/) (JH)
 ...
