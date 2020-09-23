@@ -46,5 +46,7 @@ Mutational and fitness landscapes of an RNA virus revealed through population se
 ## Authors of this document
 
 [numpde](https://github.com/numpde/) (RA)
+/
 [johaab](https://github.com/johaab/) (JH)
+/
 ...
