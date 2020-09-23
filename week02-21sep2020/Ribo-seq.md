@@ -1,6 +1,6 @@
 ---
 title: "Ribo-Seq"
-author: "pjhartout, Sneha-Sundar, RichardAffolter, marinapanteli...add your github usernames here"
+author: "pjhartout, Sneha-Sundar, RichardAffolter, marinapanteli, jonasmeirer-eth, ...add your github usernames here"
 date: "21/09/2020"
 output: html_document
 ---
