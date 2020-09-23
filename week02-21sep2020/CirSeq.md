@@ -2,12 +2,13 @@
 
 DRAFT
 
-## What it does
+## What it does [1, Main]
 
 Circularized genomic RNA fragments are used to generate tandem repeats.
 They then serve as substrates for next-generation sequencing.
-This provides sequence redundancy for a genomic fragment derived from a single individual within the virus population,
-and thus overcomes the limitations of next-generation sequencing error [1, Abstract].
+This provides sequence redundancy for a genomic fragment derived from a single individual within the virus population.
+Observed differences must originate from enzymatic or sequencing errors and can be filtered statistically.
+This overcomes the limitations of next-generation sequencing error.
 
 ## References
 
