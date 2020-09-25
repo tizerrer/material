@@ -49,4 +49,6 @@ Mutational and fitness landscapes of an RNA virus revealed through population se
 /
 [johaab](https://github.com/johaab/) (JH)
 /
+[julvog](https://github.com/johaab/) (JV)
+/
 ...
