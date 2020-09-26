@@ -1,7 +1,5 @@
 # Circular sequencing (CirSeq) of viral RNA
 
-DRAFT
-
 ## What it does
 
 Circularized genomic RNA fragments are used to generate tandem repeats.
