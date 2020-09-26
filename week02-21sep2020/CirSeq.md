@@ -46,10 +46,18 @@ Ashley Acevedo, Leonid Brodsky & Raul Andino.
 Mutational and fitness landscapes of an RNA virus revealed through population sequencing. 
 [Nature 505, pp. 686-690 (2014)](https://www.nature.com/articles/nature12861).
 
-## Authors of this document
+## Group members
 
-[numpde](https://github.com/numpde/) (RA)
+[numpde](https://github.com/numpde) (RA)
 /
-[johaab](https://github.com/johaab/) (JH)
+[johaab](https://github.com/johaab) (JH)
 /
-...
+[balayev1](https://github.com/balayev1) (AB)
+/
+[eroellSTA426](https://github.com/eroellSTA426) (ER)
+/
+[schmiddieth](https://github.com/schmiddieth) (DS)
+/
+[luknaegeli](https://github.com/luknaegeli) (LN)
+
+Honorary member: [julvog](https://github.com/julvog) (JV)
