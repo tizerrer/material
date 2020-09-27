@@ -18,3 +18,4 @@ Dup-Seq - Detection of rare mutations - Hypothesis testing
 - leonors
 - dpaysan
 - liherz
+- elihei2
