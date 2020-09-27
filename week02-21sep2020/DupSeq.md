@@ -16,3 +16,4 @@ Dup-Seq - (low frequency) Variant calling (SNVs) - Hypothesis testing
 ## Group Members
 - leonors
 - dpaysan
+- elihei2
