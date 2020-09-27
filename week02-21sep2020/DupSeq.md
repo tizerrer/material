@@ -9,7 +9,6 @@ If both strands contain a particular mutation, then it is a true variant. In thi
 ## Technology - Application - Statistics:
 - Dup-Seq - (low frequency) Variant calling (SNVs) - Hypothesis testing
 - Dup-Seq - Detection of rare mutations - Hypothesis testing
-- Dup-Seq - Find true mutation locations - Poisson distribution
 
 ## References:
 - [https://www.pnas.org/content/pnas/109/36/14508.full.pdf](https://www.pnas.org/content/pnas/109/36/14508.full.pdf)
