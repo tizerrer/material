@@ -1,6 +1,7 @@
 ---
 title: "Ribo-Seq"
-author: "pjhartout, Sneha-Sundar, RichardAffolter, marinapanteli, jonasmeirer-eth, stinea98"
+author: "pjhartout, Sneha-Sundar, RichardAffolter, marinapanteli,
+jonasmeirer-eth, stinea98, dominiquepaul"
 date: "21/09/2020"
 output: html_document
 ---
