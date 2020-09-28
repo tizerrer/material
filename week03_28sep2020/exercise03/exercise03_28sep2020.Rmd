@@ -56,3 +56,18 @@ Compute and visualize a hierarchical clustering of the samples, use package `hcl
 ## Heatmap
 Use the package `pheatmap` to generate a heatmap of the expression data.
 
+
+## PCA
+
+In the exercise session, we saw a potential case where the normal PCA can be misleading. 
+
+```{r fig.align="center", out.width = "650px", echo=FALSE}
+knitr::include_graphics("./pca fault.png")
+```
+
+* Generate the data on the left, plot it as a scatter plot and color the points based on their class label. 
+* Do the PCA, plot the variance explained by the principal components. Select $k$ such that you explain $80\%$ of the variance in your data. 
+* Explain why this problem happens. 
+* Try to solve the problem with your desired method and do the PCA, and plot the variance explained by your PCs. Select $k$ in order to explain $80\%$ of the variance in your data. Is the $k$ different in comparison to the previous case? 
+
+
