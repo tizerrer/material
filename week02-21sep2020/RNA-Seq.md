@@ -5,9 +5,7 @@ RNA-Seq is a technology that uses the deep sequencing technology to study the tr
 
 ## Link Technology -> Application -> Statistics
 
-[Mapping and quantifying mammalian transcriptomes by RNAseqr](https://www.nature.com/articles/nmeth.1226)
-
-RNAseq -> Differential Gene Expression -> ?
+RNAseq -> Differential Gene Expression -> quasi-likelihood F-tests
 
 ## Some RNAseq analysis workflow examples
 
