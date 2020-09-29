@@ -1,6 +1,6 @@
 # RNA-Sequencing
 
-RNA-Seq is a technology that uses the deep sequencing technology to study the transcriptome of an organism[1]. It can be used for differential gene and transcrip expression quantification, characterization of alternative splicing patterns, and gene fusion detection[2]. A general RNAseq workflow starts with RNA extraction, which is followed by ribosomal RNA depletion or mRNA enrichment, cDNA synthesis, preparation of a library and sequencing on a high-throuhput platform[3]. Furthermore, reads are aligned on a reference genome or transcrips[4]. The count data is then normalized, summarized and a suitable statistical method is applied to quantify the transcriptome[5].
+RNA-Seq is a technology that uses the deep sequencing technology to study the transcriptome of an organism[1]. It can be used for differential gene and transcript expression quantification, characterization of alternative splicing patterns, and gene fusion detection[2]. A general RNAseq workflow starts with RNA extraction, which is followed by ribosomal RNA depletion or mRNA enrichment, cDNA synthesis, preparation of a library and sequencing on a high-throughput platform[3]. Furthermore, reads are aligned on a reference genome or transcripts[4]. The count data is then normalized, summarized and a suitable statistical method is applied to quantify the transcriptome[5].
 
 
 ## Link Technology -> Application -> Statistics
