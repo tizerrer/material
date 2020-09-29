@@ -20,6 +20,8 @@ ChIPSeq->discovery of new regulatory elements that interacts with protein of int
 
 (gjaq, Garance Jaques)
 
+(last contributor ID, last contributor)
+
 ## link to the resource:
 [link_to_resource_1](https://www.illumina.com/techniques/sequencing/dna-sequencing/chip-seq.html)
 
