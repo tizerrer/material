@@ -33,7 +33,7 @@ Monday 11.00-11.45 (remote)
 | 09.11.2020  | Kathi | hands-on session #1: RNA-seq  | FASTQC/Salmon/etc. | X | X |
 | 16.11.2020  | Hubert | single-cell 1: preprocessing, dim. reduction, clustering | | X | X |
 | 23.11.2020  | Helena | hands-on session #2: cytometry  | cytof null comparison | X | X |
-| 30.11.2020  | Mark | single-cell 2: cell type definition, differential state  | scRNA exercise 2 | X | X |
+| 30.11.2020  | Mark | single-cell 2: cell type definition, differential state  | scRNA exercise 2 | [A Bayesian mixture model for the analysis of allelic expression in single cells](https://doi.org/10.1038/s41467-019-13099-0) Team: Sneha-Sundar,SmaragdaDimitrakopoulou,marinapanteli | X |
 | 07.12.2020  | Pierre-Luc | hands-on session #3: single-cell RNA-seq  | full scRNA-seq pipeline | X | X |
 | 14.12.2020  | Mark | loose ends: HMM, EM, robustness   | segmentation, peak finding | X | X |
 
