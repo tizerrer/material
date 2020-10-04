@@ -20,7 +20,7 @@ Monday 11.00-11.45 (remote)
 
 ## Schedule
 
-| Date  | Lecturer | Topic | Exercise | JC1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | JC2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| Date  | Lecturer | Topic | Exercise | JC1 | JC2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | --- | --- | --- | --- | --- | --- |
 | 14.09.2020  | Mark + Hubert  | admin; mol. bio. basics | R markdown; git(hub) | | |
 | 21.09.2020  | Mark | interactive technology/statistics session  | group exercise: technology pull request | | |
