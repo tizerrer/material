@@ -22,7 +22,7 @@ Monday 11.00-11.45 (remote)
 
 | Date  | Lecturer | Topic | Exercise | JC1 | JC2 |
 | --- | --- | --- | --- | --- | --- |
-| 14.09.2020  | Mark + Hubert  | admin; mol. bio. basics | R markdown; git(hub) | <img width=200/> | <img width=200/> |
+| 14.09.2020  | Mark + Hubert  | admin; mol. bio. basics | R markdown; git(hub) | <img width=100/> | <img width=100/> |
 | 21.09.2020  | Mark | interactive technology/statistics session  | group exercise: technology pull request | | |
 | 28.09.2020  | Hubert | NGS intro; exploratory data analysis | EDA in R | | |
 | 05.10.2020  | Hubert | mapping  | Rsubread | | |
