@@ -33,7 +33,7 @@ Monday 11.00-11.45 (remote)
 | 09.11.2020  | Kathi | hands-on session #1: RNA-seq  | FASTQC/Salmon/etc. | X | X |
 | 16.11.2020  | Hubert | single-cell 1: preprocessing, dim. reduction, clustering | | X | X |
 | 23.11.2020  | Helena | hands-on session #2: cytometry  | cytof null comparison | X | X |
-| 30.11.2020  | Mark | single-cell 2: cell type definition, differential state  | scRNA exercise 2 | X | X |
+| 30.11.2020  | Mark | single-cell 2: cell type definition, differential state  | scRNA exercise 2 | X | [scMET: Bayesian modelling of DNA methylation heterogeneity at single-cell resolution](https://www.biorxiv.org/content/10.1101/2020.07.10.196816v2) (MW, RM, DW) |
 | 07.12.2020  | Pierre-Luc | hands-on session #3: single-cell RNA-seq  | full scRNA-seq pipeline | X | X |
 | 14.12.2020  | Mark | loose ends: HMM, EM, robustness   | segmentation, peak finding | X | X |
 
